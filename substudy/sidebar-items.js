@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["align","Align two subtitle files."],["clean","Tools for cleaning up subtitle files and getting them into some kind of normalized format."],["decode","Decode text in a wide variety of character encodings."],["err","Error-handling for this library."],["merge","Tools for merge multiple subtitles into one."],["srt","SRT-format subtitle support."]]});

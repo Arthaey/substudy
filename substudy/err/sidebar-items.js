@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["SubStudyError","Our library's error class.  This may grow new enumeration values."]],"type":[["SubStudyResult","Our library's result type."]]});

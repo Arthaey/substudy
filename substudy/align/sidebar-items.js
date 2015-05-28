@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["align_files","Align two subtitle files, merging subtitles as necessary."],["combine_files","Combine two subtitle files into an aligned file."]]});
